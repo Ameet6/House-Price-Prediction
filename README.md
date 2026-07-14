@@ -5,6 +5,10 @@ A Machine Learning web application that estimates house prices using property fe
 The application is built with **Python**, **Scikit-learn**, and **Streamlit** to provide an interactive interface for instant house price estimation.
 
 ---
+## 🔗 Project Links
+
+- 🌐 **Live Demo:** [AI House Price Estimator](https://ameet6-house-price-prediction-app-nr92py.streamlit.app/)
+- 💻 **Source Code:** https://github.com/YourUsername/House-Price-Prediction
 
 # 📌 Project Overview
 
@@ -62,9 +66,6 @@ House-Price-Prediction/
 ├── README.md
 └── House_Price_Prediction.ipynb
 
-## 🚀 Live Demo
-
-[text](https://ameet6-house-price-prediction-app-nr92py.streamlit.app/)
 
 ## 📷 Screenshots
 
