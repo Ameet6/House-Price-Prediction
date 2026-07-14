@@ -5,10 +5,22 @@ A Machine Learning web application that estimates house prices using property fe
 The application is built with **Python**, **Scikit-learn**, and **Streamlit** to provide an interactive interface for instant house price estimation.
 
 ---
-## 🔗 Project Links
+# 🏠 AI House Price Estimator
 
-- 🌐 **Live Demo:** [AI House Price Estimator](https://ameet6-house-price-prediction-app-nr92py.streamlit.app/)
-- 💻 **Source Code:** https://github.com/YourUsername/House-Price-Prediction
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+A Machine Learning web application that estimates house prices using property features such as area, bedrooms, bathrooms, parking, furnishing status, and other amenities.
+---
+
+## 🚀 Live Demo
+
+👉 **[Launch the AI House Price Estimator](https://ameet6-house-price-prediction-app-nr92py.streamlit.app/)**
+
+---
 
 # 📌 Project Overview
 
