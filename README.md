@@ -61,3 +61,25 @@ House-Price-Prediction/
 ├── requirements.txt
 ├── README.md
 └── House_Price_Prediction.ipynb
+
+## 🚀 Live Demo
+
+https://ameet6-house-price-prediction-app-nr92py.streamlit.app/
+
+## 📷 Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Prediction Page
+
+![Prediction](screenshots/prediction.png)
+
+### Prediction Result
+
+![Result](screenshots/result.png)
+
+### About Page
+
+![About](screenshots/about.png)
