@@ -64,8 +64,7 @@ House-Price-Prediction/
 
 ## 🚀 Live Demo
 
-[My App Link](https://ameet6-house-price-prediction-app-nr92py.streamlit.app/)
-
+[\[My App Link\](https://ameet6-house-price-prediction-app-nr92py.streamlit.app/)]
 ## 📷 Screenshots
 
 ### Home Page
